@@ -1,0 +1,34 @@
+Đăng kí 1 thẻ là master chính.
+
+
+Insert: 
+Nhấn giữ nút 3s
+buzzer : kêu 3 bip
+Đặt thẻ master vào
+Buzzer kêu 1 bip
+Đặt thẻ mới vào 
+Còi kêu 1 bip
+Nhấn nút để kết thúc
+->Kết thúc
+
+Remove a Card
+Nhấn giữ nút 3s
+Buzzer kêu 3 bip
+Đưa thẻ master vào
+Buzzer kêu 1 bip
+Đưa thẻ cũ đã đăng kí vào
+Buzzer kêu 1s
+Nhấn nút để kết thúc
+->Kết thúc
+
+Remove all Cards
+Nhấn nút 3s
+Buzzer kêu 3s
+Đưa thẻ master vào
+Buzzer kêu 1s
+Nhấn nút
+Đưa thẻ master vào lần nữa
+Buzzer kêu 3 lần 
+->Xóa all thành công trừ thẻ master
+
+Nhận tín hiệu từ controller sau 3p ngắt relay nếu không có thay đổi
